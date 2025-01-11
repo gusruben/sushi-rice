@@ -16,8 +16,8 @@ This is a rice I made over the course of a few days for [Riceathon](https://rice
 
 ## Screenshots
 
-![Rice Screenshot 1](https://raw.githubusercontent.com/gusruben/sushi-dotfiles/main/screenshot.png)
-![Rice Screenshot 2](https://raw.githubusercontent.com/gusruben/sushi-dotfiles/main/screenshot2.png)
+![Rice Screenshot 1](https://raw.githubusercontent.com/gusruben/sushi-dotfiles/refs/heads/main/screenshot.png)
+![Rice Screenshot 2](https://raw.githubusercontent.com/gusruben/sushi-dotfiles/refs/heads/main/screenshot2.png)
 
 ## Used Themes & Resources
 
@@ -35,4 +35,4 @@ This is a rice I made over the course of a few days for [Riceathon](https://rice
 ### Wallpaper
 
 [Wallpaper Flare](https://www.wallpaperflare.com/switch-switches-artwork-sushi-keyboard-switch-stem-mechanical-keyboard-wallpaper-ybryx), source unknown
-![Wallpaper](https://raw.githubusercontent.com/gusruben/sushi-dotfiles/main/wallpaper.jpg)
+![Wallpaper](https://raw.githubusercontent.com/gusruben/sushi-dotfiles/refs/heads/main/wallpaper.jpg)
