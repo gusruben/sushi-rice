@@ -21,11 +21,11 @@ This is a rice I made over the course of a few days for [Riceathon](https://rice
 
 ## Used Themes & Resources
 
-**VS Code**: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
-**Rofi**: [adi1090x/rofi](https://github.com/adi1090x/rofi)
-**Firefox**: [Monocle Borders](https://addons.mozilla.org/en-US/firefox/addon/monocle-borders/)
-**Fish Shell** (modified): [Monokai Fish OSX](https://github.com/benmarten/Monokai_Fish_OSX/)
-**NeoVim**: [Monokai Pro Neovim](https://github.com/loctvl842/monokai-pro.nvim)
+- **VS Code**: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+- **Rofi**: [adi1090x/rofi](https://github.com/adi1090x/rofi)
+- **Firefox**: [Monocle Borders](https://addons.mozilla.org/en-US/firefox/addon/monocle-borders/)
+- **Fish Shell** (modified): [Monokai Fish OSX](https://github.com/benmarten/Monokai_Fish_OSX/)
+- **NeoVim**: [Monokai Pro Neovim](https://github.com/loctvl842/monokai-pro.nvim)
 
 ### Fonts
 
@@ -35,4 +35,5 @@ This is a rice I made over the course of a few days for [Riceathon](https://rice
 ### Wallpaper
 
 [Wallpaper Flare](https://www.wallpaperflare.com/switch-switches-artwork-sushi-keyboard-switch-stem-mechanical-keyboard-wallpaper-ybryx), source unknown
+
 ![Wallpaper](https://raw.githubusercontent.com/gusruben/sushi-rice/main/wallpaper.jpg)
